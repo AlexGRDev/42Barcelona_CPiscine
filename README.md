@@ -1,4 +1,6 @@
 # Proyectos Piscina 42 - Barcelona
+   -❌ la molinette esta KO
+   -✔️ la molinette esta OK
 
 Este repositorio contiene los proyectos realizados durante la Piscina de 42 Barcelona.
 
@@ -46,7 +48,7 @@ Este repositorio contiene los proyectos realizados durante la Piscina de 42 Barc
    - **Ejercicios incluidos**:
 
       - **ex01**:✔️
-      - **ex02**:❌
+      - **ex02**:✔️
       - **ex03**:✔️
       - **ex04**:✔️
       - **ex05**:✔️
@@ -83,6 +85,6 @@ Este repositorio contiene los proyectos realizados durante la Piscina de 42 Barc
 
 [**Modulo C Picine C01**](https://cdn.intra.42.fr/pdf/pdf/119629/es.subject.pdf)
 
-   - **Nota Importante**: **EX02** el programa no complia ❌
+   - **Nota Importante**: **EX02** el programa no complia ✔️
 
 [**Modulo C Picine C02**](https://cdn.intra.42.fr/pdf/pdf/144111/es.subject.pdf)
