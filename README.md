@@ -1,7 +1,12 @@
 # Proyectos Piscina 42 - Barcelona
    
-   -❌ la molinette esta KO
-   -✔️ la molinette esta OK
+### 0. Estado de los Proyectos
+
+   - **Descripción**: Resumen del progreso, situación actual, obstáculos y próximos pasos de cada proyecto activo para una evaluación rápida.
+     
+   - **Estado**:
+   - ✔️ Estado de la Molinette OK
+   - ❌ Estadi de la Molinette KO
 
 Este repositorio contiene los proyectos realizados durante la Piscina de 42 Barcelona.
 
