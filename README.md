@@ -47,7 +47,7 @@ Este repositorio contiene los proyectos realizados durante la Piscina de 42 Barc
       - **ex03**:✔️
       - **ex04**:✔️
 
-### 4. CPiscine_C01
+### 4. CPiscine_C01✔️
    
    - **Descripción**: Este módulo es una introducción a la programación en C. Mejorarás tus habilidades utilizando bucles más allá de lo que aprendiste en el módulo anterior
 
@@ -64,28 +64,28 @@ Este repositorio contiene los proyectos realizados durante la Piscina de 42 Barc
 
    - **Ejercicios incluidos**:
 
-      - **ex01**:
-      - **ex02**:
-      - **ex03**:
-      - **ex04**:
-      - **ex05**:
-      - **ex06**:
-      - **ex07**:
-      - **ex08**:
+      - **ex01**:❌
+      - **ex02**:✔️
+      - **ex03**:✔️
+      - **ex04**:✔️
+      - **ex05**:✔️
+      - **ex06**:✔️
+      - **ex07**:✔️
+      - **ex08**:✔️
 ## Notas:
-[**Modulo C Picine Shell00**](https://cdn.intra.42.fr/pdf/pdf/132327/es.subject.pdf)
+[**Modulo C Picine Shell00**]
 
    - **Nota importante**: **EX01** El nombre del archivo es incorrecto. ✔️
    - **Nota importante**: **EX02** se olvido el .tar en el 02, putadita : ✔️
    - **Nota importante**: **EX04** Comando incorrecto. ✔️
    - **Nota importante**: **EX05** El formato del comando esta mal✔️
 
-[**Modulo C Picine Shell01**](https://cdn.intra.42.fr/pdf/pdf/144120/es.subject.pdf)
+[**Modulo C Picine Shell01**]
 
    - **Nota Importante** **EX01** no hace falta declarar la variable de entorno. ✔️
    - **Nota Importante** **EX05** Fallos en el nombre del archivo, al hacer ls -la le sale '\?$*MaRViN*$?\', En el ejercicio 05 solo falta corregir el horario, y las comillas (simples y dobles) ✔️
 
-[**Modulo C Picine C00**](https://cdn.intra.42.fr/pdf/pdf/119579/es.subject.pdf)
+[**Modulo C Picine C00**]
 
    - **Nota Importante**: **EX03** tiene un salto de linia. ✔️
 
@@ -93,4 +93,5 @@ Este repositorio contiene los proyectos realizados durante la Piscina de 42 Barc
 
    - **Nota Importante**: **EX02** el programa no complia ✔️
 
-[**Modulo C Picine C02**](https://cdn.intra.42.fr/pdf/pdf/144111/es.subject.pdf)
+[**Modulo C Picine C02**]
+ - **Nota Importante**: **EX00** el programa no complia ❌
