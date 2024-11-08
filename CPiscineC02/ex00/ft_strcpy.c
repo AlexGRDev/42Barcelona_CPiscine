@@ -10,32 +10,28 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
-#include <string.h>
-
-char	*ft_strcpy(char *dest, char *scr)
+\char	*ft_strcpy(char *dest, char *src)
 {
-	int	i;
+	int		i;
 
 	i = 0;
-	while (scr[i] != '\0')
+	while (src[i] != '\0')
 	{
-		dest[i] = scr[1];
+		dest[i] = src[i];
 		i++;
 	}
-	dest[0] = '\0';
+	dest[i] = '\0';
 	return (dest);
 }
-
 /*
-int	main(void)
-{
-	char	strc[];
-	char	dest[20];
+#include <stdio.h>
 
-	strc[] = "Hola Mundo";
-	ft_strcpy(dest, strc);
-	printf("str1: %s\n", strc);
-	return (0);
+int main(void)
+{
+	char dest[] = "";
+
+	printf("%lu\n", strlen(dest));	
+	ft_strcpy(dest, "Super mega test!");
+	printf("%s", dest);	
 }
 */
