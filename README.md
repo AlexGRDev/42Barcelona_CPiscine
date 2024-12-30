@@ -24,60 +24,68 @@ Este repositorio contiene los proyectos realizados durante la **Piscina 42 Barce
 | **CPiscine_C01**          | _Expansión de habilidades en C: bucles y control de flujo avanzado._ | ✔️ OK   |
 | **CPiscine_C02**          | _Mejora de funciones, manejo de parámetros y validación de entradas._ | ❌ KO   |
 
----
-
 ### 1. **CPiscine_Shell00** ✔️
    _Bash básico y entorno de la piscina._  
    _Este proyecto cubre comandos básicos de Shell para familiarizarte con el entorno y las herramientas de la piscina._
-   - **Ejercicios**:
-     - ex00 ✔️
-     - ex01 ✔️
-     - ex02 ✔️
-     - ex03 ✔️
-     - ex04 ✔️
-     - ex05 ✔️
+
+| Proyecto            | Ejercicio | Estado |
+|---------------------|-----------|--------|
+| **CPiscine_Shell00** | ex00      | ✔️ OK  |
+| **CPiscine_Shell00** | ex01      | ✔️ OK  |
+| **CPiscine_Shell00** | ex02      | ✔️ OK  |
+| **CPiscine_Shell00** | ex03      | ✔️ OK  |
+| **CPiscine_Shell00** | ex04      | ✔️ OK  |
+| **CPiscine_Shell00** | ex05      | ✔️ OK  |
 
 ### 2. **CPiscine_Shell01** ✔️
    _Profundización en Bash y control de scripts._  
    _En este proyecto, te adentrarás más en el uso de scripts y cómo gestionar variables de entorno y procesos en Bash._
-   - **Ejercicios**:
-     - ex01 ✔️
-     - ex02 ✔️
-     - ex03 ✔️
-     - ex04 ✔️
-     - ex05 ✔️
+
+| Proyecto            | Ejercicio | Estado |
+|---------------------|-----------|--------|
+| **CPiscine_Shell01** | ex01      | ✔️ OK  |
+| **CPiscine_Shell01** | ex02      | ✔️ OK  |
+| **CPiscine_Shell01** | ex03      | ✔️ OK  |
+| **CPiscine_Shell01** | ex04      | ✔️ OK  |
+| **CPiscine_Shell01** | ex05      | ✔️ OK  |
 
 ### 3. **CPiscine_C00** ✔️
    _Introducción a la programación en C: funciones básicas._  
    _Aquí aprenderás a usar funciones como `write` y conceptos básicos de programación en C._
-   - **Ejercicios**:
-     - ex01 ✔️
-     - ex02 ✔️
-     - ex03 ✔️
-     - ex04 ✔️
+
+| Proyecto            | Ejercicio | Estado |
+|---------------------|-----------|--------|
+| **CPiscine_C00**     | ex01      | ✔️ OK  |
+| **CPiscine_C00**     | ex02      | ✔️ OK  |
+| **CPiscine_C00**     | ex03      | ✔️ OK  |
+| **CPiscine_C00**     | ex04      | ✔️ OK  |
 
 ### 4. **CPiscine_C01** ✔️
    _Expansión de habilidades en C: bucles y control de flujo avanzado._  
    _Este proyecto introduce conceptos más avanzados como el manejo de estructuras y el control de flujo con bucles._
-   - **Ejercicios**:
-     - ex01 ✔️
-     - ex02 ✔️
-     - ex03 ✔️
-     - ex04 ✔️
-     - ex05 ✔️
+
+| Proyecto            | Ejercicio | Estado |
+|---------------------|-----------|--------|
+| **CPiscine_C01**     | ex01      | ✔️ OK  |
+| **CPiscine_C01**     | ex02      | ✔️ OK  |
+| **CPiscine_C01**     | ex03      | ✔️ OK  |
+| **CPiscine_C01**     | ex04      | ✔️ OK  |
+| **CPiscine_C01**     | ex05      | ✔️ OK  |
 
 ### 5. **CPiscine_C02** ❌
    _Mejora de funciones, manejo de parámetros y validación de entradas._  
    _Este proyecto se enfoca en cómo mejorar las funciones, procesar parámetros y validar entradas de los usuarios._
-   - **Ejercicios**:
-     - ex01 ❌
-     - ex02 ✔️
-     - ex03 ✔️
-     - ex04 ✔️
-     - ex05 ✔️
-     - ex06 ✔️
-     - ex07 ✔️
-     - ex08 ✔️
+
+| Proyecto            | Ejercicio | Estado |
+|---------------------|-----------|--------|
+| **CPiscine_C02**     | ex01      | ❌ KO  |
+| **CPiscine_C02**     | ex02      | ✔️ OK  |
+| **CPiscine_C02**     | ex03      | ✔️ OK  |
+| **CPiscine_C02**     | ex04      | ✔️ OK  |
+| **CPiscine_C02**     | ex05      | ✔️ OK  |
+| **CPiscine_C02**     | ex06      | ✔️ OK  |
+| **CPiscine_C02**     | ex07      | ✔️ OK  |
+| **CPiscine_C02**     | ex08      | ✔️ OK  |
 
 ---
 
