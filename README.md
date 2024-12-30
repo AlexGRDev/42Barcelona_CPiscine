@@ -87,28 +87,26 @@ Este repositorio contiene los proyectos realizados durante la **Piscina 42 Barce
 | **CPiscine_C02**     | ex07      | ✔️ OK  |
 | **CPiscine_C02**     | ex08      | ✔️ OK  |
 
----
-
 ## Notas Importantes
 
 ### **CPiscine_Shell00**
-   - **EX01**: Error en el nombre del archivo. ✔️
-   - **EX02**: Se olvidó el archivo `.tar` en la entrega. ✔️
-   - **EX04**: Comando incorrecto. ✔️
-   - **EX05**: Formato de comando incorrecto. ✔️
+- ❗ **EX01**: El nombre del archivo es incorrecto. ✔️
+- ⚠️ **EX02**: Se olvidó el archivo `.tar` en la entrega. ✔️
+- ❌ **EX04**: Comando incorrecto. ✔️
+- 🔴 **EX05**: Formato de comando incorrecto. ✔️
 
 ### **CPiscine_Shell01**
-   - **EX01**: No es necesario declarar la variable de entorno. ✔️
-   - **EX05**: Error en el nombre del archivo al hacer `ls -la`. ✔️
+- ⚠️ **EX01**: No es necesario declarar la variable de entorno. ✔️
+- 🔴 **EX05**: Error en el nombre del archivo al hacer `ls -la`. ✔️
 
 ### **CPiscine_C00**
-   - **EX03**: Se incluye un salto de línea innecesario al final. ✔️
+- ⚠️ **EX03**: Se incluye un salto de línea innecesario al final. ✔️
 
 ### **CPiscine_C01**
-   - **EX02**: El programa no compila correctamente. ✔️
+- ❌ **EX02**: El programa no compila correctamente. ✔️
 
 ### **CPiscine_C02**
-   - **EX00**: El programa no compila correctamente. ❌
+- ❗ **EX00**: El programa no compila correctamente. ❌
 
 ---
 
