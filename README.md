@@ -1,97 +1,98 @@
 # Proyectos Piscina 42 - Barcelona
-   
-### 0. Estado de los Proyectos
 
-   - **Descripción**: Resumen del progreso, situación actual, obstáculos y próximos pasos de cada proyecto activo para una evaluación rápida.
-     
-   - **Estado**:
-   - ✔️ Estado de la Molinette OK
-   - ❌ Estado de la Molinette KO
+Este repositorio contiene los proyectos realizados durante la **Piscina de 42 Barcelona**. Aquí puedes ver el estado de cada proyecto, las descripciones de los módulos, y las notas relevantes.
 
-Este repositorio contiene los proyectos realizados durante la Piscina de 42 Barcelona.
+## Estado de los Proyectos
 
-## Estructura del Repositorio:
+| Proyecto                 | Estado  |
+|--------------------------|---------|
+| **CPiscine_Shell00**      | ✔️ OK   |
+| **CPiscine_Shell01**      | ✔️ OK   |
+| **CPiscine_C00**          | ✔️ OK   |
+| **CPiscine_C01**          | ✔️ OK   |
+| **CPiscine_C02**          | ❌ KO   |
 
-### 1. CPiscine_Shell00 ✔️
+---
 
-   - **Descripción**: Este es el primer módulo de tu C piscine. Descubirás cómo utilizar tu entorno y manipular bash.
-     
-   - **Ejercicios incluidos**:
+## Estructura del Repositorio
 
-     - **ex00**:✔️
-     - **ex01**:✔️
-     - **ex02**:✔️
-     - **ex03**:✔️
-     - **ex04**:✔️
-     - **ex05**:✔️
-       
-### 2. CPiscine_Shell01 ✔️
+### 1. **CPiscine_Shell00** ✔️
+   - **Descripción**: Introducción a Bash y el entorno de la piscina. Aprenderás comandos básicos de Shell.
+   - **Ejercicios**:
+     - **ex00** ✔️
+     - **ex01** ✔️
+     - **ex02** ✔️
+     - **ex03** ✔️
+     - **ex04** ✔️
+     - **ex05** ✔️
 
-   - **Descripción**: Este es el segundo módulo de tu Piscina de C. En el, aprenderás más en profundidad cómo utilizar tu entorno y controlar bash
+### 2. **CPiscine_Shell01** ✔️
+   - **Descripción**: Profundización en el uso de Bash y el control de scripts.
+   - **Ejercicios**:
+     - **ex01** ✔️
+     - **ex02** ✔️
+     - **ex03** ✔️
+     - **ex04** ✔️
+     - **ex05** ✔️
 
-   - **Ejercicios incluidos**:✔️
+### 3. **CPiscine_C00** ✔️
+   - **Descripción**: Introducción a la programación en C. Se cubren funciones básicas como `write` y estructuras de control.
+   - **Ejercicios**:
+     - **ex01** ✔️
+     - **ex02** ✔️
+     - **ex03** ✔️
+     - **ex04** ✔️
 
-      - **ex01**:✔️
-      - **ex02**:✔️
-      - **ex03**:✔️
-      - **ex04**:✔️
-      - **ex05**:✔️
+### 4. **CPiscine_C01** ✔️
+   - **Descripción**: Expansión de habilidades en C. Aprenderás a utilizar bucles y control de flujo avanzado.
+   - **Ejercicios**:
+     - **ex01** ✔️
+     - **ex02** ✔️
+     - **ex03** ✔️
+     - **ex04** ✔️
+     - **ex05** ✔️
 
-### 3. CPiscine_C00 ✔️
+### 5. **CPiscine_C02** ❌
+   - **Descripción**: Mejora de funciones, manejo de parámetros y validación de entradas.
+   - **Ejercicios**:
+     - **ex01** ❌
+     - **ex02** ✔️
+     - **ex03** ✔️
+     - **ex04** ✔️
+     - **ex05** ✔️
+     - **ex06** ✔️
+     - **ex07** ✔️
+     - **ex08** ✔️
 
-   - **Descripción**: Este módulo es una introducción a la programación en C. Aprenderás cómo funciona la función write y también cómo funcionan los bucles
-     
-   - **Ejercicios incluidos**:
-      - **ex01**:✔️
-      - **ex02**:✔️
-      - **ex03**:✔️
-      - **ex04**:✔️
+---
 
-### 4. CPiscine_C01✔️
-   
-   - **Descripción**: Este módulo es una introducción a la programación en C. Mejorarás tus habilidades utilizando bucles más allá de lo que aprendiste en el módulo anterior
+## Notas Importantes
 
-   - **Ejercicios incluidos**:
+### **CPiscine_Shell00**
+   - **EX01**: El nombre del archivo es incorrecto. ✔️
+   - **EX02**: Se olvidó el archivo `.tar` en la entrega. ✔️
+   - **EX04**: Comando incorrecto. ✔️
+   - **EX05**: Formato del comando incorrecto. ✔️
 
-      - **ex01**:✔️
-      - **ex02**:✔️
-      - **ex03**:✔️
-      - **ex04**:✔️
-      - **ex05**:✔️
+### **CPiscine_Shell01**
+   - **EX01**: No es necesario declarar la variable de entorno. ✔️
+   - **EX05**: Error en el nombre del archivo al hacer `ls -la`. Corrige las comillas y el horario. ✔️
 
-### 5. CPiscine_C02
-   - **Descripción**: Este módulo es una introducción a la programación en C. En este módulo aprenderás cómo mejorar tus funciones. Tendrás que establecer controles en tus parámetros.
+### **CPiscine_C00**
+   - **EX03**: Se incluye un salto de línea innecesario al final. ✔️
 
-   - **Ejercicios incluidos**:
+### **CPiscine_C01**
+   - **EX02**: El programa no compila correctamente. ✔️
 
-      - **ex01**:❌
-      - **ex02**:✔️
-      - **ex03**:✔️
-      - **ex04**:✔️
-      - **ex05**:✔️
-      - **ex06**:✔️
-      - **ex07**:✔️
-      - **ex08**:✔️
-## Notas:
-[**Modulo C Picine Shell00**]
+### **CPiscine_C02**
+   - **EX00**: El programa no compila correctamente. ❌
 
-   - **Nota importante**: **EX01** El nombre del archivo es incorrecto. ✔️
-   - **Nota importante**: **EX02** se olvido el .tar en el 02, putadita : ✔️
-   - **Nota importante**: **EX04** Comando incorrecto. ✔️
-   - **Nota importante**: **EX05** El formato del comando esta mal✔️
+---
 
-[**Modulo C Picine Shell01**]
+## Enlaces Relevantes
+- [Modulo C Piscine C01 - Documentación oficial](https://cdn.intra.42.fr/pdf/pdf/119629/es.subject.pdf)
 
-   - **Nota Importante** **EX01** no hace falta declarar la variable de entorno. ✔️
-   - **Nota Importante** **EX05** Fallos en el nombre del archivo, al hacer ls -la le sale '\?$*MaRViN*$?\', En el ejercicio 05 solo falta corregir el horario, y las comillas (simples y dobles) ✔️
+---
 
-[**Modulo C Picine C00**]
+¡Sigue aprendiendo y no dudes en abrir un "issue" si tienes alguna duda o sugerencia!
 
-   - **Nota Importante**: **EX03** tiene un salto de linia. ✔️
-
-[**Modulo C Picine C01**](https://cdn.intra.42.fr/pdf/pdf/119629/es.subject.pdf)
-
-   - **Nota Importante**: **EX02** el programa no complia ✔️
-
-[**Modulo C Picine C02**]
- - **Nota Importante**: **EX00** el programa no complia ❌
