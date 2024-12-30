@@ -1,6 +1,6 @@
 # Proyectos Piscina 42 - Barcelona
 
-Este repositorio contiene los proyectos realizados durante la **Piscina de 42 Barcelona**. Aquí puedes ver el estado de cada proyecto, las descripciones de los módulos, y las notas relevantes.
+Este repositorio contiene los proyectos realizados durante la **Piscina 42 Barcelona**. Aquí encontrarás las soluciones a los ejercicios de la piscina y su estado actual.
 
 ## Estado de los Proyectos
 
@@ -17,66 +17,66 @@ Este repositorio contiene los proyectos realizados durante la **Piscina de 42 Ba
 ## Estructura del Repositorio
 
 ### 1. **CPiscine_Shell00** ✔️
-   - **Descripción**: Introducción a Bash y el entorno de la piscina. Aprenderás comandos básicos de Shell.
+   _Bash básico y entorno de la piscina._
    - **Ejercicios**:
-     - **ex00** ✔️
-     - **ex01** ✔️
-     - **ex02** ✔️
-     - **ex03** ✔️
-     - **ex04** ✔️
-     - **ex05** ✔️
+     - ex00 ✔️
+     - ex01 ✔️
+     - ex02 ✔️
+     - ex03 ✔️
+     - ex04 ✔️
+     - ex05 ✔️
 
 ### 2. **CPiscine_Shell01** ✔️
-   - **Descripción**: Profundización en el uso de Bash y el control de scripts.
+   _Profundización en Bash y control de scripts._
    - **Ejercicios**:
-     - **ex01** ✔️
-     - **ex02** ✔️
-     - **ex03** ✔️
-     - **ex04** ✔️
-     - **ex05** ✔️
+     - ex01 ✔️
+     - ex02 ✔️
+     - ex03 ✔️
+     - ex04 ✔️
+     - ex05 ✔️
 
 ### 3. **CPiscine_C00** ✔️
-   - **Descripción**: Introducción a la programación en C. Se cubren funciones básicas como `write` y estructuras de control.
+   _Introducción a la programación en C: funciones básicas._
    - **Ejercicios**:
-     - **ex01** ✔️
-     - **ex02** ✔️
-     - **ex03** ✔️
-     - **ex04** ✔️
+     - ex01 ✔️
+     - ex02 ✔️
+     - ex03 ✔️
+     - ex04 ✔️
 
 ### 4. **CPiscine_C01** ✔️
-   - **Descripción**: Expansión de habilidades en C. Aprenderás a utilizar bucles y control de flujo avanzado.
+   _Expansión de habilidades en C: bucles y control de flujo avanzado._
    - **Ejercicios**:
-     - **ex01** ✔️
-     - **ex02** ✔️
-     - **ex03** ✔️
-     - **ex04** ✔️
-     - **ex05** ✔️
+     - ex01 ✔️
+     - ex02 ✔️
+     - ex03 ✔️
+     - ex04 ✔️
+     - ex05 ✔️
 
 ### 5. **CPiscine_C02** ❌
-   - **Descripción**: Mejora de funciones, manejo de parámetros y validación de entradas.
+   _Mejora de funciones, manejo de parámetros y validación de entradas._
    - **Ejercicios**:
-     - **ex01** ❌
-     - **ex02** ✔️
-     - **ex03** ✔️
-     - **ex04** ✔️
-     - **ex05** ✔️
-     - **ex06** ✔️
-     - **ex07** ✔️
-     - **ex08** ✔️
+     - ex01 ❌
+     - ex02 ✔️
+     - ex03 ✔️
+     - ex04 ✔️
+     - ex05 ✔️
+     - ex06 ✔️
+     - ex07 ✔️
+     - ex08 ✔️
 
 ---
 
 ## Notas Importantes
 
 ### **CPiscine_Shell00**
-   - **EX01**: El nombre del archivo es incorrecto. ✔️
+   - **EX01**: Error en el nombre del archivo. ✔️
    - **EX02**: Se olvidó el archivo `.tar` en la entrega. ✔️
    - **EX04**: Comando incorrecto. ✔️
-   - **EX05**: Formato del comando incorrecto. ✔️
+   - **EX05**: Formato de comando incorrecto. ✔️
 
 ### **CPiscine_Shell01**
    - **EX01**: No es necesario declarar la variable de entorno. ✔️
-   - **EX05**: Error en el nombre del archivo al hacer `ls -la`. Corrige las comillas y el horario. ✔️
+   - **EX05**: Error en el nombre del archivo al hacer `ls -la`. ✔️
 
 ### **CPiscine_C00**
    - **EX03**: Se incluye un salto de línea innecesario al final. ✔️
@@ -89,10 +89,27 @@ Este repositorio contiene los proyectos realizados durante la **Piscina de 42 Ba
 
 ---
 
-## Enlaces Relevantes
-- [Modulo C Piscine C01 - Documentación oficial](https://cdn.intra.42.fr/pdf/pdf/119629/es.subject.pdf)
+## Instrucciones
 
----
+Para clonar y usar este repositorio en tu máquina local:
 
-¡Sigue aprendiendo y no dudes en abrir un "issue" si tienes alguna duda o sugerencia!
+```bash
+git clone https://github.com/AlexGRDev/42Barcelona_CPiscine.git
+cd 42Barcelona_CPiscine
+```
+## Para compilar y ejecutar los proyectos en C:
 
+```bash
+cc -Wall -Werror -Wextra -O2 -g nombre_del_archivo.c -o nombre_del_programa
+./nombre_del_programa
+```
+
+## Contribuir
+ _Si deseas contribuir a este repositorio:_
+ 1. Haz un fork del repositorio.
+ 2. Crea una nueva rama (git checkout -b feature/nueva-caracteristica).
+ 3. Realiza tus cambios y haz commit de ellos (git commit -m 'Añadir nueva característica').
+ 4. Haz push a tu rama (git push origin feature/nueva-caracteristica).
+ 5. Abre un Pull Request para revisión.
+## Licencia
+_Este repositorio está bajo la licencia MIT. Puedes usar, modificar y distribuir este código bajo los términos de dicha licencia._
