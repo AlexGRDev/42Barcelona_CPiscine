@@ -1,6 +1,6 @@
 # Licencia MIT
 
-Copyright (c) **2024** [Alex Garcia Rodriguez]
+Copyright (c) **2024** Alex Garcia Rodriguez
 
 Se concede por la presente permiso, de forma gratuita, a cualquier persona que obtenga una copia
 de este software y los archivos de documentación asociados (el "Software"), para usar el Software
