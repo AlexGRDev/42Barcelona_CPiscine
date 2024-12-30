@@ -158,4 +158,4 @@ cc -Wall -Werror -Wextra -O2 -g nombre_del_archivo.c -o nombre_del_programa
  4. Haz push a tu rama (git push origin feature/nueva-caracteristica).
  5. Abre un Pull Request para revisión.
 ## 📜 Licencia
-_Este repositorio está bajo la licencia MIT. Puedes usar, modificar y distribuir este código bajo los términos de dicha licencia._
+_Este repositorio está bajo la licencia [MIT](https://github.com/AlexGRDev/42Barcelona_CPiscine/blob/main/LICENSE). Puedes usar, modificar y distribuir este código bajo los términos de dicha licencia._
